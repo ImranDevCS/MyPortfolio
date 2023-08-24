@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+      Not Found - Samuli Linnankoski - Freelance Full-Stack Web Developer /
+      React / JavaScript / C# / .NET / Azure
+    </title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta
+      name="description"
+      content="Experienced freelance full-stack developer based in Helsinki, Finland"
+    />
+    <meta
+      name="keywords"
+      content="c#, .NET, Microsoft, Azure, React, Javascript, Freelancer, Consultant, Full-Stack, SQL Server, MongoDB, Gatsby, Contentful"
+    />
+    <meta name="author" content="Samuli Linnankoski" />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="manifest" href="site.webmanifest" />
+
+    <link rel="stylesheet" href="css/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+
+    <script src="js/modernizr.custom.js"></script>
+  </head>
+
+  <body class="page">
+    <div class="lm-animated-bg"></div>
+
+    <!-- Loading animation -->
+    <div class="preloader">
+      <div class="preloader-animation">
+        <div class="preloader-spinner"></div>
+      </div>
+    </div>
+    <!-- /Loading animation -->
+
+    <!-- Scroll To Top Button -->
+    <div class="scroll-to-top"><i class="lnr lnr-chevron-up"></i></div>
+    <!-- /Scroll To Top Button -->
+
+    <div class="page-scroll">
+      <div
+        id="page_container"
+        class="page-container bg-move-effect"
+        data-animation="transition-flip-in-right"
+      >
+        <!-- Header -->
+        <header id="site_header" class="header">
+          <div class="header-content clearfix">
+            <!-- Text Logo -->
+            <div class="text-logo">
+              <a href="/">
+                <div class="logo-symbol">S</div>
+                <div class="logo-text">Samuli <span>Linnankoski</span></div>
+              </a>
+            </div>
+            <!-- /Text Logo -->
+          </div>
+        </header>
+        <!-- /Header -->
+
+        <div id="main" class="site-main">
+          <div id="main-content" class="single-page-content nothing-found">
+            <div id="primary" class="content-area">
+              <div
+                id="content"
+                class="page-content site-content single-post"
+                role="main"
+              >
+                <div class="page-content">
+                  <h1 class="nf-page-title">404</h1>
+                  <div>
+                    That's a bummer. It looks like I haven't implemented your
+                    wish yet.
+                  </div>
+                  <div class="p-30"></div>
+                  <a href="/" target="_self" class="btn btn-primary"
+                    >Go to front page →</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
